@@ -1,0 +1,9 @@
+h4, div, p, span {
+    background: red;
+    /* padding: 10px;   */
+    /* margin: 10px;  */
+    height: 40px;
+    width: 300px;
+    display: inline;
+    display: inline-block;
+}

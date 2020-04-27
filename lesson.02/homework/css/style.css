@@ -1,0 +1,36 @@
+ body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #fff8ea;
+}  
+.span-black-bolt {
+    font-weight: 700;
+}
+.span-red {
+    color: red;
+}
+.span-red-fuchsia {
+    color: rgb(122, 41, 30);
+}
+.span-red-bolt {
+    color: red;
+    font-weight: 700;
+}
+.span-red-under-italic {
+    color: red;
+    font-style: italic;
+    font-weight: 700;
+}
+.span-green-under {
+    color: seagreen;
+    text-decoration: underline;
+}
+.span-italic-under {
+    font-style: italic;
+    text-decoration: underline;
+}
+.span-italic {
+    font-style: italic;
+}
+.span-underline {
+    text-decoration: underline;
+}
