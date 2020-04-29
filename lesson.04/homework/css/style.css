@@ -1,0 +1,18 @@
+.inline-block-purple {
+    display: inline-block;
+    background: #cc8fc5;
+    padding: 10px;
+}
+.block-lightgreen {
+    background: #c5cc8f;
+    width: 820px;
+    height: 40px;
+    padding: 20px;
+    margin: 15px;
+}
+.block-lightblue {
+    background: #7b7bd4;
+    height: 40px;
+    padding: 20px;
+    margin: 15px;
+}
