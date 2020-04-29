@@ -1,22 +1,18 @@
-/* position  */
-/* static */
-/* fixed */
 .test {
     width: 50px;
     height: 50px;
-    background: red;
-    /* position: absolute; */
-    /* top: 400px; 
-    right: 200px;
+    background: orange;
+    /* position: fixed; */
+    /* right: 300px; */
+    /* left: 100px; */
     bottom: 100px;
-    top: 100px; */
-    
+    top: 100px;
+    /* position: relative; */
 }
 input[type="checkbox"] {
     position: relative;
-    bottom: 2px;
+    /* top: 4px; */
 }
-
 .rect {
     width: 150px;
     height: 150px;
@@ -24,26 +20,23 @@ input[type="checkbox"] {
     border: 1px solid black;
     position: relative;
 }
-
 .sq {
     width: 50px;
     height: 50px;
-    background: lime;
+    background-color: rgb(28, 66, 35);  
 }
 .p1 {
     position: absolute;
-    left: 0px;
-    bottom: 0px;
+    bottom: 0;
+    left: 0;
     z-index: 1;
 }
 .p2 {
+    background: darkgoldenrod;
     position: absolute;
     top: 70px;
     right: 70px;
-    background: orange;
     z-index: 2;
 }
 
-
-
-}
+  
